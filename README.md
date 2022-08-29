@@ -1,0 +1,1 @@
+This is a webpage that has been recreated with reference to the images in 'sample-images'. Upon completion of this webpage, I will have fairly good knowledge of flexbox and how to implement it and some other CSS properties. 
